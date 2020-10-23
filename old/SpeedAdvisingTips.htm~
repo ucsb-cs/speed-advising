@@ -1,0 +1,243 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><!-- InstanceBegin template="/Templates/Template.dwt.php" codeOutsideHTMLIsLocked="false" --><head>
+
+<link href="stylesheet.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="language" content="en">
+
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Computing Education and Diversity | Advising Pilot Advisor Tips</title>
+<!-- InstanceEndEditable -->
+
+<!-- 
+*************************************************
+Design by: Brian Wolf
+Life Sciences Computing Group
+University of California, Santa Barbara
+Development Begin Date: April 2009
+Last Updated: July 13th, 2009
+*************************************************
+-->
+
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+
+</head>
+
+<body>
+
+<!-- Start Container -->
+<div id="container">
+
+<!-- Start Navigation -->
+<!-- Start Navigation -->
+
+<h1><img border="0" src="SpeedAdvising.png" width="500" height="200"></h1>
+<h1>Tips for Advisors:</h1>
+<div id="content">
+
+<!-- End Bullet Navigation -->
+
+<div class="box" id="quicklinks"> &nbsp;<div class="box_text_2">
+<h2>Quick Links</h2>
+<ol><li>
+<a href="http://www.cs.ucsb.edu/education/courses/schedules/">2014-2015 Course Offerings</a>
+</li><li>
+<a href="http://www.cs.ucsb.edu/education/undergrad/admissions/">Rules to transfer into CS (from non-CS or pre-major CS)</a>
+</li><li>
+<a href="QuickRequirements.pdf">Requirements Sheet to print</a> 
+</li><li>
+<a href="http://www.cs.ucsb.edu/education/undergrad/bachelor-science">Major Requirements incl. prerequisites charts</a>
+</li>
+<li>
+<a href="http://discover.cs.ucsb.edu/undergrad/opportunities">Opportunities for high-achieving students</a>
+</li><li>
+<a href="http://discover.cs.ucsb.edu/undergrad/resources">Resources for struggling students</a>
+</li></ol>
+</div>
+<div class="clear"></div>
+<!-- Quick Links -->
+</div>
+
+<!-- Start 2. General Tips -->
+<div class="box" id="tips"> &nbsp;<div class="box_text_2">
+<h2>General Tips</h2>
+<ol><li>
+<b>Ask the student about themselves</b> - ask if he/she had prior
+programming experience
+before college, to give a little summary about that experience, and to tell you
+why he/she chose computer science as a major.
+</li>
+	<li>
+<b>Try to assess the student&#39;s interests. </b>Ask questions like: What classes 
+did you enjoy most so far. What was your favorite programming project / 
+exercise. Steer him or her towards opportunities and faculty that may lie in 
+their path of interest.&nbsp;
+</li>
+	<li>
+<b>Get specifics on a student's peformance (grades) before giving opportunities</b> because students sometimes answer based on their confidence rather than
+their objective performance.
+
+<!--
+Make sure you look at the student's transcript or ask specific information
+on test / project scores (if too early for grades) to assess how the
+student is doing rather than basing it on what the student says.
+
+This is important because students who are very confident tend to overstate
+their performance, and, perhaps more importantly, those who are not
+very confident
+tend to understate their performance.  In addition, females tend to play
+down their strengths, and males tend to exaggerate their strengths.
+
+First, statistics show that males are more likely to overstate their
+performance,
+while females are more likely to understate theirs.  This means that a male
+advisor might be very willing to believe a female's poor assessment of herself,
+thinking she is very "self aware and honest."  Quite the contrary.  She may be
+either lacking in self confidence or displaying a female pattern of
+communication.
+Another set of statistics show that female self confidence is at the
+lowest point
+of their lives during their senior year in high school and freshman year in
+college.  Males, on the other hand, bottom out in junior high and have recovered
+by college.  This means that the females we see freshman year are likely to
+be lacking in self confidence, so we should take extra care to encourage them.
+This is played out in computer science by the fact that statistics
+show that females
+transfer out of the CS major "citing failure" with a
+higher GPA than males do.  Thus, females are much more likely to tell an
+advisor that they "don't get" computer science.
+-->
+</li><li>
+<b>Be encouraging, especially for lower-division students</b>
+<!--
+The earlier it is in the student's career, the more encouraging, rather than
+warning, the advisor should be.  For students who have no experience, they
+might already feel like they don't belong.  It is detrimental for the advisor to
+reinforce this in any way.  Instead, students should be told that their success
+is dependent on hard work, going to office hours, knowing how to ask good
+questions, etc.  Do not emphasize any concept of "natural talent" or
+the need for previous experience, because even those who are talented may
+think they're not and self select out.  Studies have shown that students who
+are told that success is dependent on hard work, rather than talent, do much
+better on exams.
+-->
+</li><li>
+<b>Emphasize the role of practice, work over natural talent</b> because this
+is both true and reduces stereotype threat, a phenomenon that causes 
+underrepresented minorities to perform worse on exams.
+</li>
+	<li><b>Encourage the students to join clubs like ACM, WISH</b>, because it helps
+people meet other students who have been in their situation.  In the
+early classes, especially, several inexperienced students have
+expressed intimidation about their skills compared to their peers'.
+They found that joining CS clubs allowed them to meet people and see
+that they were not in the minority - many students start without
+experience and succeed. </li>
+	<li>Encourage students to find a set of students in their course so they
+can work at the same time in CSIL and commisserate?
+</li>
+	<li>Remind people about the <b>payoffs of computer science</b> - strong job
+market, good salaries, lots of research opportunities, flexible
+schedules (telecommuting).  Take the long view - you work hard for 4
+years and the payoff is for the rest of your life.  Do you want to
+work hard for 4 years or struggle for the rest of your life?  I know
+what I want! :)
+</li>
+	<li><b>End on a positive note.</b>  Find something in which they've done well,
+wish them luck in their next classes, say that you look forward to
+seeing them at the next advising opportunity.  
+</li></ol>
+</div>
+<!-- Keeps Content CSS Displaying Properly -->
+<div class="clear"></div>
+</div>
+<!-- End 2. General Tips -->
+
+<!-- Start 4. Transfer -->
+<div class="box" id="transfer"> &nbsp;<div class="box_text_2">
+<h2>Transferring to CS</h2>
+<ol><li>
+<a href="http://www.cs.ucsb.edu/education/undergrad/admissions/">Rules to transfer into CS (from non-CS or pre-major CS)</a>
+</li><li>
+Alert: Non-major students <b>must</b> complete CS 16, 24, 40 with a grade of 
+B or better <b>in each class the first attempt</b> to apply. See other requirements on 
+<a href="http://www.cs.ucsb.edu/education/undergrad/admissions/">Rules to transfer into CS (from non-CS or pre-major CS)</a>
+</li>
+<li>
+Alert: CS BA is closed to new transfers, but the exceptions are complex.
+Please refer students to Benji.
+</li></ol>
+</div>
+<div class="clear"></div>
+<!-- End Transfer -->
+</div>
+
+
+
+<!-- Start 5. Requirements -->
+<div class="box" id="reqs"> &nbsp;<div class="box_text_2">
+<h2>CS Requirements</h2>
+<ol><li>
+<a href="QuickRequirements.pdf">Requirements Sheet to print</a>
+</li><li>
+<a href="http://www.cs.ucsb.edu/education/undergrad/bachelor-science">Major Requirements</a>
+</li></ol>
+</div>
+<div class="clear"></div>
+<!-- End Requirements -->
+</div>
+
+<!-- Start 5. Requirements -->
+<div class="box" id="schedule"> &nbsp;<div class="box_text_2">
+<h2>Course Scheduling</h2>
+<ol><li>
+<a href="http://www.cs.ucsb.edu/education/courses/schedules/">2013-2014 Course Offerings</a>
+</li><li>
+<a href="http://www.cs.ucsb.edu/sites/www.cs.ucsb.edu/files/theme-assets/LowerDivision2014.png">Lower Division pre-req chart</a><br>
+<a href="http://www.cs.ucsb.edu/sites/www.cs.ucsb.edu/files/theme-assets/UpperDivisionRequirements2014.png">Upper Division required courses pre-req chart</a><br>
+<a href="http://www.cs.ucsb.edu/sites/www.cs.ucsb.edu/files/theme-assets/LowerDivision2014.png">Upper Division elective pre-req chart</a><br>
+</li><li>
+Help the student plan for a <b>balanced load</b> - don't ever take more
+than 3 technical courses at once.
+</li><li>
+Also, you can suggest students talk to other upper-division students for 
+advice on what courses not to take at the same time.
+</li></ol>
+</div>
+<div class="clear"></div>
+<!-- End Requirements -->
+</div>
+
+
+
+
+
+</div>
+<!-- End Content -->
+
+
+<!-- InstanceEndEditable -->
+
+<!-- Keeps Content CSS Displaying Properly  -->
+<div class="clear"></div>
+
+</div>
+<!-- End Container -->
+
+<!-- Start Footer -->
+<div id="footer">
+<blockquote>
+	<p>&nbsp;</p>
+	<p>Diana Franklin, updated by Tobias Hollerer • Computer Science Department  • 
+	<a href="http://www.ucsb.edu/">University of California, Santa Barbara</a><br>Copyright © 2009-14 The Regents of the University of California, All Rights Reserved.<br>UC Santa Barbara, Santa Barbara CA 93106<br>
+	<a href="mailto:franklin@cs.ucsb.edu">franklin@cs.ucsb.edu</a>,
+	<a href="mailto:holl@cs.ucsb.edu">holl@cs.ucsb.edu</a></p>
+	<p>Last Modified <!-- #BeginDate format:En1 -->22-Oct-14<!-- #EndDate --> •
+	<a href="http://www.policy.ucsb.edu/terms_of_use/">Terms of Use</a> </p>
+</blockquote>
+</div>
+<!-- End Footer -->
+
+
+
+</body><!-- InstanceEnd --></html>

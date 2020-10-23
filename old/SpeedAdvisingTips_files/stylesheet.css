@@ -1,0 +1,205 @@
+/****** @import Must be at top of page ******/
+@import url(advising.css);
+@import url(button.css);
+@import url(category.css);
+@import url(footer.css);
+@import url(box.css);
+@import url(image.css);
+@import url(navigation.css);
+@import url(table.css);
+@import url(bullet-arrow.css);
+
+/****** Body ******/	
+
+body {
+	background-color: #CCD7D3;
+	margin: 0;
+	padding: 0 0 0 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	background-image: url(../images/body_bg.jpg);
+	background-repeat: repeat-x;
+	}
+
+/****** Container ******/
+
+#container {
+	width: 1000px;
+	margin: auto;
+	padding: 0;	
+	background-color:#FFFFFF; 
+	}	
+
+/****** Content ******/
+
+#content {
+	width: 900px;
+	margin: 0 auto 0 auto; 
+	padding: 0 50px 18px 50px;
+	}
+
+#content_left_main {
+	float: left;
+	width: 500px;
+	margin: 0; 
+	padding: 24px 24px 24px 48px; 
+	}
+
+#content_right_main {
+	float: right;
+	width: 380px;
+	margin: 0; 
+	padding: 24px 48px 24px 0; 
+	}
+
+
+#content_left_half {
+	float: left;
+	width: 500px;
+	margin: 0; 
+	padding: 0 24px 24px 48px; 
+	}
+
+#content_right_half {
+	float: right;
+	width: 380px;
+	margin: 0; 
+	padding: 0 48px 24px 0; 
+	}	
+
+#content_left_three_quarters {
+	float: left;
+	width: 640px;
+	margin: 0; 
+	padding: 0 24px 24px 48px; 
+	}
+
+#content_right_one_quarter {
+	float: right;
+	width: 240px;
+	margin: 0; 
+	padding: 0 48px 24px 0; 
+	}	
+	
+/****** HTML Tags ******/	
+
+h1 {
+	margin: 0 auto 24px auto; 
+	padding: 24px 50px 0 50px;
+	font-size: 24px;
+	font-weight: bold;
+	color: #000000;
+	}
+
+#content_left_main h1 {
+	margin: 0 0 8px 0; 
+	padding: 4px 0 4px 0;
+	font-size: 16px;
+	font-weight: bold;	
+	color: #000000;
+	}
+	
+h2 {
+	margin: 0 0 8px 0; 
+	padding: 4px 0 4px 0;
+	font-size: 16px;
+	font-weight: bold;	
+	color: #000000;
+	}
+	
+h2 a:link, a:visited {
+	font-size: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+	color: #183c6e;
+	} 	
+
+h2 a:link:hover, a:visited:hover {
+	font-size: inherit;
+	font-weight: inherit;
+	text-decoration: underline;
+	color: #a87a0c;
+	}
+	
+h3 {
+	margin: 0 0 0 0; 
+	padding: 6px 0 6px 0; 
+	font-size: 14px;
+	font-weight: bold;	
+	color: #000000;
+	}
+	
+h4 {
+	margin: 0 0 0 0;
+	padding: 6px 0 6px 0; 
+	font-size: 12px;
+	font-weight: bold;	
+	color: #000000;
+	}
+	
+p {
+	margin: 0;
+	padding:  0 0 16px 0; 
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	line-height: 18px;		
+	}	
+	
+blockquote {
+	margin: inherit;
+	padding:  0 0 0 24px; 
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	line-height: 18px;		
+	}	
+	
+strong {
+	font-size: 12px;
+	font-weight: bold;		
+	line-height: 18px;	
+	}	
+
+ol {
+	list-style-type: decimal;
+	margin: 0;	
+	padding:  4px 12px 12px 24px; 
+	}
+
+ul {
+	list-style-type: disc;
+	margin: auto; 		
+	padding:  4px 12px 12px 12px; 
+	}
+
+li {
+	font-size: inherit;
+	font-weight: inherit;
+	line-height: 18px;
+	list-style-position: outside;
+	}		
+
+/****** Default Links ******/
+
+a:link, a:visited {
+	font-size: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+	color: #183c6e;
+	} 	
+
+a:link:hover, a:visited:hover {
+	font-size: inherit;
+	font-weight: inherit;
+	text-decoration: underline;
+	color: #a87a0c;
+	}		
+
+/****** Misc Elements ******/
+
+.clear {
+clear: both;
+	}		
